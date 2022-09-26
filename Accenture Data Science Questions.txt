@@ -1,0 +1,32 @@
+Questions asked in Accenture interview for DS role
+1. Explain about yourself
+2. Explain the projects that you worked for
+3. What is the difference between logistic and linear
+4. What is SIgmoid function
+5. What is the difference between sigmoid and softmax function
+6. what is validation
+7. what s statification
+8. what is bootstrap validation
+9. What is cost function
+10. Why is cost function so important in model
+11. When did you apply cost function
+12. What is optimizer
+13.I have 10 Million records with 60 features, what is your approch to build a logistic regression
+	a. which validation you choose
+	b. which model you choose
+	c. Which optimizer you choose
+	d. list the optimizers you know and explain the best one you choose for this problem
+	e. Where do you get the data ? is it from online or warehouse?
+
+14.what is clustering and explain various clustering algorithms
+15. Write psudo code of Density based clustering
+16.Have you ever worked on SVM ? tell me the advantages
+17. What is the node entropy
+18. How is Rnadom forest is different from Xgboost
+19. What are the most significant parameters for the xgboost
+20 Why you preferr XG boost for both Liner and logistic
+21. What is PCA
+22. I applied PCA on 50 features and how many new feature will I get
+23 WHat is Eigan vector
+24. How you deploy your model into production
+25. What Hadoop cluster you are using
